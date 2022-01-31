@@ -1,0 +1,16 @@
+body {
+    display: flex;
+}
+
+#div_1 {
+    width: 10%;
+    height:100px;
+    margin-left: 20px;
+    background-color: aqua;
+}
+#div_2 {
+    width: 10%;
+    height:100px;
+    margin-left: 20px;
+    background-color:darkolivegreen;
+}

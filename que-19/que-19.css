@@ -1,0 +1,7 @@
+#para:hover{
+    color:green;
+}
+#para {
+    font-size: 100px;
+    cursor: pointer;
+}
